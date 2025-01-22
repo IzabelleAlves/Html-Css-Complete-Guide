@@ -9,3 +9,5 @@ p {
   color: blue;
 }
 ```
+
+- O seletor no `CSS` é usado para selecionar elementos `HTML` específicos que queremos estilizar.
