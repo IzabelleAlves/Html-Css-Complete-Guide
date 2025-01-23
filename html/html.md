@@ -19,7 +19,7 @@
 
 **Estrutura de uma `Tag` `HTML`:**
 
-![estrutura html](../assets/imagens/image.png)
+![estrutura html](../assets/imagens/estrutura-tag.png)
 
 ## Tags comuns
 
