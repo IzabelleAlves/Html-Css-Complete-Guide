@@ -53,15 +53,4 @@ O **Box Model** afeta como o layout do documento é exibido. O tamanho final do 
 
 **Modelo:**
 
-+---------------------------+
-| Margin |
-| +---------------------+ |
-| | Border | |
-| | +---------------+ | |
-| | | Padding | | |
-| | | +---------+ | | |
-| | | | Content | | | |
-| | | +---------+ | | |
-| | +---------------+ | |
-| +---------------------+ |
-+---------------------------+
+![estrutura box-model](../assets/imagens/box-model.png)
