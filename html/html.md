@@ -17,4 +17,12 @@
 - Dão informações extras sobre uma taf para o browser.
 - Eles ajudam o navegador a entender melhor como renderizar o elemento ou como ele deve se comportar.
 
+**Estrutura de uma `Tag` `HTML`:**
+
 ![estrutura html](../assets/imagens/image.png)
+
+## Tags comuns
+
+- `p` -> Marca um parágrafo.
+- `h1`, `h2`, `h3`, `h4`, `h5`, `h6` -> Marcam diferentes níveis de títulos.
+- `a` -> Marca um link.
