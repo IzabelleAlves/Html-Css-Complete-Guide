@@ -37,3 +37,11 @@
 ```html
 <img src="" alt="" />
 ```
+
+## 1. Achar Fotos
+
+- [Unsplash](https://unsplash.com/pt-br): Excelente repositório de imagens gratuitas e de alta qualidade.
+
+## 2. Otimizar Fotos
+
+- [Squoosh](https://squoosh.app/): Ferramenta para compressão e otimização de imagens.
