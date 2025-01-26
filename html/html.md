@@ -26,3 +26,14 @@
 - `p` -> Marca um parágrafo.
 - `h1`, `h2`, `h3`, `h4`, `h5`, `h6` -> Marcam diferentes níveis de títulos.
 - `a` -> Marca um link.
+
+### img
+
+- Adiciona imagens à nossa página.
+- `src` -> atributo que define o caminho da imagem.
+- `alt` -> Texto alternativo que será lido por leitrores de tela (tarz acessibilidade).
+- `max-width: 100%` -> Geralmente definimos um width máximo de 100% para a imagem, assim ela não cresce além do elemento pai.
+
+```html
+<img src="" alt="" />
+```
